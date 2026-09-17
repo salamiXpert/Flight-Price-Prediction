@@ -5,4 +5,8 @@ requests
 uvicorn[standard]
 fastapi
 pydantic
-scikit-learn ==1.9.0
+scikit-learn ==1.9.
+
+
+
+# The Rernder Link Primary URL is Available at Primary at ====>  https://flight-price-prediction-ka4e.onrender.com/docs
